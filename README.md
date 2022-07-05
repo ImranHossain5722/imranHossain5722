@@ -1,3 +1,5 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+
 # 💫 About Me:
 🌱 I’m currently learning Redux, TypeScript React-Native<br><br>👯 I’m looking to collaborate on Open source projects can be collaborated on.<br><br>🤝 I’m looking for help To help people learn web development.<br><br>👨‍💻 All of my projects are available at https://imran-portfolio-86d8a.web.app/<br><br>📫 How to reach me imranhossain.webdev@gmail.com<br><br>⚡ Fun fact It's my passion to learn new techniques and explore new ideas for designs
 
