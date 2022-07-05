@@ -12,7 +12,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImranHossain5722)  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImranHossain5722&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ImranHossain5722&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ImranHossain5722&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImranHossain5722&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
